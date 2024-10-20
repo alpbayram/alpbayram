@@ -1,6 +1,6 @@
 # Alp Eren Bayram
 
-**Full Stack Developer**
+**Junior Web Developer**
 
 ✉️ alperen-bayram@hotmail.com  
 🌐 [GitHub Profilim](https://github.com/alpbayram)  
@@ -12,14 +12,14 @@ Bilişim sistemleri mühendisliği son sınıf öğrencisiyim. Web geliştirme a
 ## Yetenekler
 
 - **Front-End:** HTML, CSS (Tailwind CSS), JavaScript, React.js
-- **Back-End:** Node.js, Express.js, RESTful API
+- **Back-End:** Node.js, Express.js
 - **Veritabanı:** MySQL, PostgreSQL, Firebase,
-- **Araçlar ve Platformlar:** Git, GitHub, AWS, Linux CLI, Heroku
+- **Araçlar ve Platformlar:** Git, Linux CLI, Heroku
 
 ## Eğitim
 
 - **Kocaeli Üniversitesi** - Bilişim Sistemleri Mühendisliği
-*Not Ortalaması: 3.00/4*
+*Not Ortalaması: 3.2/4.0*
 
 ## İş Deneyimi
 
