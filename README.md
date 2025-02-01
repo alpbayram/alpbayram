@@ -1,27 +1,26 @@
 # Alp Eren Bayram
 
-**Junior Web Developer**
+**Information System Engineer**
 
 ✉️ alperen-bayram@hotmail.com  
-🌐 [GitHub Profilim](https://github.com/alpbayram)  
+🌐 [Portfolyom](https://alpbayram.me)  
 
 ## Hakkımda
 
-Bilişim sistemleri mühendisliği son sınıf öğrencisiyim. Web geliştirme alanında uzmanlaşmak için JavaScript ve modern web teknolojileri üzerinde çalışıyorum.
+Bilişim sistemleri mühendisliği mezunuyum. Web geliştirme alanında uzmanlaşmak için JavaScript ve modern web teknolojileri üzerinde çalışıyorum.
 
 ## Yetenekler
 
 - **Front-End:** HTML, CSS (Tailwind CSS), JavaScript, React.js
 - **Back-End:** Node.js, Express.js
 - **Veritabanı:** MySQL, PostgreSQL, Firebase,
-- **Araçlar ve Platformlar:** Git, Linux CLI, Heroku
+- **Araçlar ve Platformlar:** Git, Linux
 
 ## Eğitim
 
 - **Kocaeli Üniversitesi** - Bilişim Sistemleri Mühendisliği
-*Not Ortalaması: 3.2/4.0*
 
 ## İş Deneyimi
-
+- **Software Developer Stajyeri** - Yigisoft (09/2024 – 01/2025)
 - **Front-End Developer Stajyeri** - Arma Group Holding (06/2022 – 08/2022)
 - **Bilgi İşlem Stajyeri** - Scattolini Otomotiv (06/2021 – 08/2021)
