@@ -15,6 +15,7 @@ Kaynak kodları özeldir. Projelerin örnek verilerle hazırlanmış sürümleri
 | Kurumsal Web Sitesi Tasarımı | 3 bölüm ve 28 sayfadan oluşan arayüz tasarım prototipi. | [tasarim.alpbayram.com](https://tasarim.alpbayram.com) |
 | Üye Portalı Kullanım Rehberi | 19 sayfalık, ekran görüntülü kullanım rehberi. | [rehber.alpbayram.com](https://rehber.alpbayram.com) |
 | API Sağlık Kontrolü | Kurumun kullandığı web servislerinin çalışıp çalışmadığını tek tıkla kontrol eden araç. Durum, süre ve hata özetini tek ekranda gösterir. | [apikontrol.alpbayram.com](https://apikontrol.alpbayram.com) |
+| Araçlar | QR kod üretici ve A4 yazdırılabilir yazıcı kartuş takip formu. | [araclar.alpbayram.com](https://araclar.alpbayram.com) |
 
 #### Kullandığım araçlar
 
